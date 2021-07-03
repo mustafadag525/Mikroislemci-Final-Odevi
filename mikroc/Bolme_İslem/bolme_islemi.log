@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F84A -DL -O11111114 -fo4 -N"C:\Users\PC\Desktop\proteus ög\Bolme_Ýslem\bolme_islemi.mcppi" -SP"C:\Users\PC\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\PC\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\PC\Desktop\proteus ög\Bolme_Ýslem\" -IP"C:\Users\PC\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "bolme_islemi.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 52 [bytes], Available ROM: 1024 [bytes]	 
+diagnostics: 0	122	Compilation Started	bolme_islemi.c
+diagnostics: 31	123	Compiled Successfully	bolme_islemi.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 42 (81%)  Free RAM (bytes): 10 (19%)	Used RAM (bytes): 42 (81%)  Free RAM (bytes): 10 (19%)
+hint: 0	1144	Used ROM (program words): 659 (64%)  Free ROM (program words): 365 (36%)	Used ROM (program words): 659 (64%)  Free ROM (program words): 365 (36%)
+diagnostics: 0	125	Project Linked Successfully	bolme_islemi.mcppi
+diagnostics: 0	128	Linked in 46 ms	 
+diagnostics: 0	129	Project 'bolme_islemi.mcppi' completed: 109 ms	 
+diagnostics: 0	103	Finished successfully: 05 May 2021, 17:50:10	bolme_islemi.mcppi
